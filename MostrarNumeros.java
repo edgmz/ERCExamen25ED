@@ -12,3 +12,4 @@ public class MostrarNumeros {
         System.out.println("Número 2:" + numero2);
         sc.close();
     }
+}
